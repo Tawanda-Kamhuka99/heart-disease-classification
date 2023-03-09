@@ -1,6 +1,6 @@
 # Predicting Heart Disease Using Classification Models
 
-This project aims to predict the likelihood of heart disease using classification models in Python.
+This project aims to predict the likelihood of a person contracting heart disease using classification models in Python.
 
 #### Tools & Libraries
 
